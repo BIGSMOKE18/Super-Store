@@ -96,7 +96,7 @@ A time-series forecasting dashboard to predict short-term sales using historical
 - Short-term demand spikes during **Q4 (Oct–Dec)** months.
 
 📸 Forecast Dashboard Preview:
-![Super Store Sales Forecast Dashboard](./screenshots/Screenshot%202025-10-25%20103645.png)
+![Super Store Sales Forecast Dashboard](https://github.com/BIGSMOKE18/Super-Store/blob/main/Screenshot%202025-10-25%20103645.png)
 
 ---
 
