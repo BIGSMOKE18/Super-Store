@@ -77,7 +77,7 @@ An interactive overview of sales performance across categories, regions, and cus
 - **Geographical Sales & Profit by State**
 
 📸 Dashboard Preview:
-![Super Store Sales Dashboard](./screenshots/Screenshot%202025-10-25%20103618.png)
+![Super Store Sales Dashboard](https://github.com/BIGSMOKE18/Super-Store/blob/main/Screenshot%202025-10-25%20103618.png)
 
 ---
 
